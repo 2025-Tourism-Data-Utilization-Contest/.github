@@ -38,8 +38,8 @@
   </a>
 </td>
 <td align="center" style="padding: 20px;">
-  <a href="https://github.com/lucia" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://avatars.githubusercontent.com/u/lucia?v=4" alt="김루시아" width="120" height="120" style="max-width: 100%;">
+  <a href="https://github.com/1234sia" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://avatars.githubusercontent.com/u/125750344?v=4" alt="김루시아" width="120" height="120" style="max-width: 100%;">
   </a>
 </td>
 </tr>
