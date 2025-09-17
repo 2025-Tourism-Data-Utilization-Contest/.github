@@ -1,8 +1,8 @@
-# 🐦 쇼윙
+# 🐦 [쇼윙](https://play.google.com/store/apps/details?id=com.hoyadong.showings&hl=ko)
 
 ## 🗓️ Development Period
 - Planning: 2025.04.07 ~ 2025.05.21
-- Development: 2025.05.23 ~
+- Development: 2025.05.23 ~ 2025.09.18
 
 
 ## 📖 Service Background
