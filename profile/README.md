@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/63a20491-f643-48b5-b0ba-6cfea96dfd87" width="170" alt="탐조 여행지" />
   <img src="https://github.com/user-attachments/assets/53287d01-f3f1-4463-a116-08787f0091c3" width="170" alt="여행 플래닝" />
-  <img src="https://github.com/user-attachments/assets/f22f2397-0047-4419-93c6-ff7c631ad7c8" width="170" alt="혼잡도 확인" />
+  <img src="https://github.com/user-attachments/assets/f22f2397-0047-4419-93c6-ff7c631ad7c8" width="170" alt="혼잡도 확인" /><br>
   <img src="https://github.com/user-attachments/assets/d53fcd11-5d2c-4720-9a32-4740d89e7d9a" width="170" alt="기록 공유" />
   <img src="https://github.com/user-attachments/assets/8cbbb26c-b9fb-4aee-83b2-ba1250c5d1d7" width="170" alt="탐조 입문" />
 </div>
