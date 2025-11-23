@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.hoyadong.showings&hl=ko">
-    <img src="https://github.com/user-attachments/assets/ad315710-927e-4076-b621-e8855503e9dc" width="700" alt="쇼윙 Play Store 메인 썸네일" />
+    <img src="https://github.com/user-attachments/assets/ad315710-927e-4076-b621-e8855503e9dc" width="1200" alt="쇼윙 Play Store 메인 썸네일" />
   </a>
   <br/><br/>
   <a href="https://play.google.com/store/apps/details?id=com.hoyadong.showings&hl=ko">
